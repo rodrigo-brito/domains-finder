@@ -13,12 +13,15 @@ func main() {
 	app := cli.NewApp()
 	app.Name = "domain-finder"
 	app.Description = "Search domains in registo.br candidates to monthly release"
+	app.Version = "1.0.0"
 	app.Flags = []cli.Flag{
 		cli.BoolFlag{
-			Name: "refresh",
+			Name:  "refresh",
+			Usage: "Refresh domain list of current month",
 		},
 		cli.BoolFlag{
-			Name: "diff",
+			Name:  "diff",
+			Usage: "Diff domain list between current month and last month",
 		},
 	}
 
