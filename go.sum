@@ -1,0 +1,4 @@
+github.com/StudioSol/set v0.0.0-20181009180159-31c7da67f20b h1:Q4a4HcVZOqsyQDB4EQPXkI2HiTvG4WqtE4tvKuJf+pk=
+github.com/StudioSol/set v0.0.0-20181009180159-31c7da67f20b/go.mod h1:jQwPtO8TDLipgekVOFZBf7MXh09j/iwTANk4lKsD6sk=
+github.com/urfave/cli v1.20.0 h1:fDqGv3UG/4jbVl/QkFwEdddtEDjh/5Ov6X+0B/3bPaw=
+github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
